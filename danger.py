@@ -8,7 +8,7 @@ from threading import Thread
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = '7392397213:AAHBcHbK3JREm4fHo_5KIfJqBYIdPkEyqxA'  # Replace with your actual bot token
+TOKEN = '7616979521:AAFZ8fEUaIAGDbOOeoByaOLWGIAVtbS_aYY'  # Replace with your actual bot token
 bot = telebot.TeleBot(TOKEN)  # Initialize the bot
 
 DESIGNATED_GROUP_ID = -1002271966296
